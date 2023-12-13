@@ -1,0 +1,5 @@
+Amex_v6.0-DD_IGHV_F.fna
+Danio_rerio_IMGT_ref_allele.fna
+Hsapiens_IGHV_ref_allele.fna
+Mus_musculus_C57BL_ref_allele.fna
+Xtrop_v9.1_IGHV_all_F.fna
