@@ -1,6 +1,4 @@
-# website-template
-
-[Video tutorial](https://youtu.be/YN75YXaLFGM)
+MDistAnalyzer
 
 This is a template for creating a Quarto web site using RStudio.
 
