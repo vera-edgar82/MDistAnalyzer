@@ -1,4 +1,4 @@
-## MDistAnalyzer
+## MDistAnalyzer (Mismatch Distribution Analyzer)
 
 Es una herramienta escrita en Python.
 
