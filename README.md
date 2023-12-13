@@ -4,7 +4,9 @@ Es una herramienta escrita en Python.
 
 Recibe como archivos de entrada secuencias IGHV en formato FASTA, la ejecución inicial del script parte en la generación de alineamientos globales con USEARCH, eliminando comparaciones redundantes, cuantifica las diferencias (mismatch) de cada comparación: calcula la distribución a traves de: la media, asimetria y media.
 
-To use it effectively you need to know how to push and pull from GitHub to RStudio using the Git panel buttons, which requires a working GitHub personal access token (PAT). If you don't have one setup, following [these instructions](https://happygitwithr.com/https-pat.html#tldr) in *Happy Git and GitHub for the useR* to set one up. (In short you will create a token for HTTPS and store it using **gitcreds**.)
+T
+ESTA ES SOLO UNA PRUEBA
+n *Happy Git and GitHub for the useR* to set one up. (In short you will create a token for HTTPS and store it using **gitcreds**.)
 
 In addition open RStudio and update to the latest version by clicking "Help" "Check for Updates". (This is necessary to ensure that Quarto is installed.)
 
