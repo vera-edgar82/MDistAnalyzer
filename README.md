@@ -12,13 +12,14 @@ y elimina las comparaciones redundantes, cuantificando las diferencias (mismatch
 
 - [ ] 2. A través de la lista de identificadores de cada secuencia y genera las combinaciones únicas por pares. Utiliza el programa USEARCH para obtener alineamientos globales con los siguientes parámetros:
 
-usearch 
-    - [ ] search_global FASTA_file 
-    - [ ] db FASTA_file
-    - [ ] blast6out test.aln 
-    - [ ] fulldp 
-    - [ ] strand plus 
-    - [ ] id 0.4
+usearch
+
+- [ ] search_global FASTA_file
+- [ ] db FASTA_file
+- [ ] blast6out test.aln 
+- [ ] fulldp
+- [ ] strand plus 
+- [ ] id 0.4
 
 Nota: Estos parámetros se pueden ajustar según el criterio de cada análisis.
 
