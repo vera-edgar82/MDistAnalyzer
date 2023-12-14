@@ -10,7 +10,7 @@ y elimina las comparaciones redundantes, cuantificando las diferencias (mismatch
 
 ### Función (usearch)
 
-- [ ] 2. A través de la lista de identificadores de cada secuencia y genera las combinaciones únicas por pares. Utiliza el programa USEARCH para obtener alineamientos globales con los siguientes parámetros:
+- [ ] 2. A través de la lista de identificadores de cada secuencia genera las combinaciones únicas por pares y utiliza el programa USEARCH para obtener alineamientos globales con los siguientes parámetros:
 
 usearch
 
