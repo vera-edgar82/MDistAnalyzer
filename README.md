@@ -6,19 +6,19 @@ y elimina las comparaciones redundantes, cuantificando las diferencias (mismatch
 
 ### Función (get_genes)
 
-- [ ] 1. Esta función recibe como datos de entrada las secuencias IGHV en formato FASTA, obtiene los identificadores de cada secuencia y los almacena de manera temporal en una lista.
+- [ ] 1. Recibe como datos de entrada las secuencias IGHV en formato FASTA, obtiene los identificadores de cada secuencia y los almacena de manera temporal en una lista.
 
 ### Función (usearch)
 
-- [ ] 2. Esta función recibe la lista de identificadores de cada secuencia y genera las combinaciones únicas por pares. Utiliza el programa USEARCH para obtener alineamientos globales con los siguientes parámetros:
+- [ ] 2. A través de la lista de identificadores de cada secuencia y genera las combinaciones únicas por pares. Utiliza el programa USEARCH para obtener alineamientos globales con los siguientes parámetros:
 
 usearch 
-    -search_global FASTA_file 
-    -db FASTA_file
-    -blast6out test.aln 
-    -fulldp 
-    -strand plus 
-    -id 0.4
+    - [ ] search_global FASTA_file 
+    - [ ] db FASTA_file
+    - [ ] blast6out test.aln 
+    - [ ] fulldp 
+    - [ ] strand plus 
+    - [ ] id 0.4
 
 Nota: Estos parámetros se pueden ajustar según el criterio de cada análisis.
 
@@ -31,3 +31,9 @@ Finalmente, seleccionan los alineamientos de las comparaciones no redundantes (�
 - [ ] 3. Esta función obtiene la distribución de frecuencias con base a los intervalos definidos, los cuales son configurables por el investigador.
 
 intervalos = 0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.0
+
+### Crear ambiente conda
+
+Descargar el archivo genes.yml ubicado en el directorio conda_pkg, para crear un nuevo ambiente en tu entorno de conda, ejecutar la siguiente instrucción:
+
+- [ ] conda env create -f genes.yml
