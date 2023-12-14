@@ -44,6 +44,6 @@ intervalos = 0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6
 - [ ] MDistAnalizer.ipynb
 - [ ] Archivos de entrada en formato FASTA
 - [ ] genome_list.txt, en este archivo se hace referencia los nombres de los archivos de FASTA
-- [ ] usearch
+- [ ] Descarga USEARCH del siguiente sitio web: https://www.drive5.com/usearch/download.html, posteriormente incorporarlo al directorio Project.
 
 - [ ] 3. Para la ejecución del script MDistAnalizer.ipynb, es posible realizarlo a través de Visual Studio Code o Jupyter Notebook. Deberás tener activo el ambiente genes (paso 1), para que se encuentre disponible el kernel y todas las librerías y dependencias para su ejecución. El programa se ejecuta con la tecla RUN y de manera automatizada genera las tablas de texto en formato tabular y gráficos.
