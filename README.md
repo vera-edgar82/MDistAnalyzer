@@ -1,4 +1,4 @@
-(https://github.com/vera-edgar82/MDistAnalyzer/blob/main/tables/logo.png)
+![logo] (https://github.com/vera-edgar82/MDistAnalyzer/blob/main/tables/logo.png)
 
 
 ## MDistAnalyzer (Mismatch Distribution Analyzer)
